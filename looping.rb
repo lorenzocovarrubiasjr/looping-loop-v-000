@@ -1,5 +1,9 @@
 def looping
-	#your code here
+	loop do
+	  puts "Wingardium Leviosa < Jesus is Lord!"
+	end
 end
+
+looping
 
 #call your method here
